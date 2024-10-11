@@ -1,0 +1,13 @@
+create database -> untuk membuat database
+use database -> untuk memasukan database
+create table -> buat tabel
+insert into -> buat mengisi nilai tabel
+select * from -> mengambil data dari table
+select `field` from -> mengambil data dari sesuai field
+select * from  where-> mengambil data sesuai kondisi
+select * from  order by-> mengambil data dan mengurutkan sesuai kondisi asc(dari kecil ke besar),desc(dari besar ke keci)
+select * from Limit -> mengambil data dari tabel sesuai limit(batas)
+
+
+
+
